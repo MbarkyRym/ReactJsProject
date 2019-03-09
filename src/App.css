@@ -1,0 +1,44 @@
+.result {
+  height: 60px;
+  background-color: #FFFAF0;
+  width: 100%;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  background-color: rgb(228, 201, 201);
+ 
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  
+}
+.button1 {
+ 
+  background-color: #0000FF;
+ 
+}
+.buttonC {
+ 
+  background-color: #8B0000;
+ 
+}
+.buttonEgale {
+ 
+  background-color: #008000;
+ 
+}
